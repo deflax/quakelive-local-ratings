@@ -17,7 +17,8 @@ from .settings import (
     RUN_POST_PROCESS,
 )
 
-MIN_DURATION_TO_ADD = 60 * 5
+#MIN_DURATION_TO_ADD = 60 * 5
+MIN_DURATION_TO_ADD = 60 * 3
 
 lock = Lock()
 
